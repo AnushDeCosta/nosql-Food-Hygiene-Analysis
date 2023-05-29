@@ -1,6 +1,6 @@
 # FoodQuest: A NoSQL Adventure in UK's Food Landscape
 
-![Mongo](https://github.com/AnushDeCosta/nosql-Food-Hygiene-Analysis/assets/67308030/f800d6ff-fe5d-4151-bc2b-607c4c67b421)
+![FoodHygine](https://github.com/AnushDeCosta/nosql-Food-Hygiene-Analysis/assets/67308030/23bb93ac-403c-4912-8f9f-c3946df0f9bb)
 
 ## Introduction
 This Analysis is organized into three distinct sections:
